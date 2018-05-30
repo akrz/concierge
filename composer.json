@@ -1,5 +1,5 @@
 {
-    "name": "timegridio/concierge",
+    "name": "akrz/concierge",
     "type": "library",
     "description": "A Laravel 5.x reservation library",
     "keywords": [
